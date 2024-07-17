@@ -1,3 +1,13 @@
 = python-algorithm-work
 
 A publically-available collection of work I've done implementing fundamental and data-specific algorithms in Python. 
+
+== Requirements
+
+I've run each and all of these programs with the Anaconda’s Python distribution, using Anaconda3 v2022.10 on the macOS operating system, running on Apple M1 CPU, but running Anaconda’s x86_64 package.
+
+== Installation
+
+
+
+== Usage
