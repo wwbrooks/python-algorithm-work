@@ -11,3 +11,5 @@ I've run each and all of these programs with the Anaconda’s Python distributio
 
 
 == Usage
+
+When run from the command line, fibonacci-sequence-generator.py prompts the user to enter an integer value. Returns at the command line The Fibonacci sequence up to the user-supplied value.
