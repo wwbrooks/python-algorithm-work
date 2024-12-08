@@ -1,6 +1,8 @@
 = python-algorithm-work
 
-A publically-available collection of work I've done implementing fundamental and data-specific algorithms in Python. 
+A publicly-available collection of work I've done implementing 
+fundamental and data-specific algorithms in Python. These should run in a 
+"standalone" manner, at the command line. 
 
 == Requirements
 
@@ -8,7 +10,7 @@ I've run each and all of these programs with the Anaconda’s Python distributio
 
 == Installation
 
-
+You shouldn't have to use any type of installer, as these programs run standalone at the moment. 
 
 == Usage
 
