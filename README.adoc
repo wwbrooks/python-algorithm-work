@@ -15,3 +15,5 @@ You shouldn't have to use any type of installer, as these programs run standalon
 == Usage
 
 When run from the command line, fibonacci-sequence-generator.py prompts the user to enter an integer value. Returns at the command line The Fibonacci sequence up to the user-supplied value.
+
+bmi_calc.py prompts the user to enter values for weight, in pounds, and height, in inches, and returns a value for the corresponding body-mass index.
